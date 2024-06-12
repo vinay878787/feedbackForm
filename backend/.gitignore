@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Other files you might want to ignore
+.DS_Store
+*.log
+*.lock
+*.tmp
